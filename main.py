@@ -7,8 +7,10 @@ import re
 import nltk
 import itertools
 from sklearn.metrics.pairwise import cosine_similarity
+"""
 nltk.download('stopwords')
 nltk.download('punkt')
+"""
 Stop_Words = stopwords.words("english")
 
 
@@ -86,3 +88,4 @@ for v in total_query:
         # total_query_tokens에 전체 쿼리에 대한 token이 하나의 list에 들어가 있음.
         total_query_tokens.append(v)
 
+print(total_query_tokens)
