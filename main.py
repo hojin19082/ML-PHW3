@@ -111,10 +111,11 @@ transformer = TfidfTransformer(smooth_idf=False)
 
 i = 0
 for query_token in query_tokens:
-    qvec = query[i]
-    simi_dict = {}
     if i == 5:
         break
+    qvec = query[i]
+    qvec = [qvec]
+    simi_dict = {}
     for token in query_token:
         value = dictionary[token]
         for doc_id in value:
@@ -135,10 +136,12 @@ for query_token in query_tokens:
         temp.append(docs[item])
 
     tfid_docs = vectorizer.fit_transform(temp)
-    qvec = vectorizer.transform(query)
-    tfid_docs_weight = transformer.fit_transform(tfid_docs)
-    qvec_weight = transformer.fit_transform(qvec)
+    tfid_query = vectorizer.transform(qvec)
 
-    similarity = cosine_similarity(tfid_docs_weight, qvec_weight)
-    print(similarity)
+    tfid_docs_weight = transformer.fit_transform(tfid_docs)
+    query_weight = transformer.transform(tfid_query)
+
+    similarity = cosine_similarity(tfid_docs_weight, query_weight)
+    similarity_df = pd.DataFrame(similarity, columns=['cosSim'])
+    print(similarity_df)
     i += 1
