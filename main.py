@@ -1,5 +1,6 @@
 import pandas as pd
-from sklearn.feature_extraction.text import CountVectorizer, TfidfTransformer
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.feature_extraction.text import TfidfTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 from nltk.corpus import stopwords
 from nltk import word_tokenize
@@ -104,8 +105,13 @@ for i in range(len(docs)):
 dictionary = sorted(dictionary.items())
 dictionary = dict(dictionary)
 
+
+vectorizer = CountVectorizer(tokenizer=tokenize, min_df=1,max_df=0.5, ngram_range=(1,2))
+transformer = TfidfTransformer(smooth_idf=False)
+
 i = 0
 for query_token in query_tokens:
+    qvec = query[i]
     simi_dict = {}
     if i == 5:
         break
@@ -117,5 +123,22 @@ for query_token in query_tokens:
             if doc_id in simi_dict:
                 simi_dict[doc_id] += 1
 
+    doc_list_to_compute_similarity = []
+    for key, value in simi_dict.items():
+        if value >= 5:
+            doc_list_to_compute_similarity.append(key)
 
+    doc_list_to_compute_similarity = sorted(doc_list_to_compute_similarity)
+
+    temp= list()
+    for item in doc_list_to_compute_similarity:
+        temp.append(docs[item])
+
+    tfid_docs = vectorizer.fit_transform(temp)
+    qvec = vectorizer.transform(query)
+    tfid_docs_weight = transformer.fit_transform(tfid_docs)
+    qvec_weight = transformer.fit_transform(qvec)
+
+    similarity = cosine_similarity(tfid_docs_weight, qvec_weight)
+    print(similarity)
     i += 1
