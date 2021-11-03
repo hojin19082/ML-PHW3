@@ -5,6 +5,7 @@ from nltk import word_tokenize
 from nltk.stem.porter import PorterStemmer
 import re
 import nltk
+import itertools
 from sklearn.metrics.pairwise import cosine_similarity
 nltk.download('stopwords')
 nltk.download('punkt')
@@ -35,12 +36,11 @@ def process(query):
     W, _, s = query.partition('\n.W\n')
     return W
 
-
+'''
 keyFile = open('cran.qry.txt', 'r')
 key = keyFile.readlines()
 for ii in key:
     print(ii+'\n')
-# 365 queries
 
 responseFile = open('cranqrel.txt', 'r')
 response = responseFile.readlines()
@@ -52,6 +52,7 @@ keyF = open('cran.all.1400.txt', 'r')
 key2 = keyF.readlines()
 for iii in key2:
     print(iii+'\n')
+'''
 
 # 각 문서 나눠서 list에 저장
 with open('cran.all.1400.txt') as f:
@@ -60,15 +61,28 @@ with open('cran.all.1400.txt') as f:
 data = {(i+1):processD(article) for i,article in enumerate(articles)}
 docs = [data[index]['W'] for index in range(1, 1401)]
 
-# 각 query 나눠서 list에 저장
+#각 문서 토큰화 후 list에 저장
+docs_tokens = []
+for i in docs:
+    docs_tokens.append(tokenize(i))
+
+# 각 쿼리 나누기
 with open('cran.qry.txt') as fq:
     queries = fq.read().split('\n.I')
 
+
 dataq = {(ind+1):process(query) for ind,query in enumerate(queries)}
 query = list(dataq.values())
-
 query_tokens = []
+# 쿼리 token화
 for i in query:
     query_tokens.append(tokenize(i))
 
-print(query_tokens[0])
+total_query_tokens = []
+# 전체 쿼리 하나의 list에 넣고 중복 제거. (inverted index용 )
+total_query = list(itertools.chain.from_iterable(query_tokens))
+for v in total_query:
+    if v not in total_query_tokens:
+        # total_query_tokens에 전체 쿼리에 대한 token이 하나의 list에 들어가 있음.
+        total_query_tokens.append(v)
+
