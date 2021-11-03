@@ -10,6 +10,7 @@ nltk.download('stopwords')
 nltk.download('punkt')
 Stop_Words = stopwords.words("english")
 
+
 def tokenize(text):
     clean_txt = re.sub('[^a-z\s]+',' ',text)  # replacing spcl chars, punctuations by space
     clean_txt = re.sub('(\s+)',' ',clean_txt)  # replacing multiple spaces by single space
@@ -20,6 +21,7 @@ def tokenize(text):
     tokens =(list(map(lambda token: PorterStemmer().stem(token),words)))  # stemming tokens
     return tokens
 
+
 def processD(article):
     article = article.split('\n.T\n')[1]
     T, _, article = article.partition('\n.A\n')
@@ -27,10 +29,12 @@ def processD(article):
     B, _, W = article.partition('\n.W\n')
     return {'T':T, 'A':A, 'B':B, 'W':W}
 
+
 def process(query):
     query = query.split('\n.W\n')[1]
     W, _, s = query.partition('\n.W\n')
     return W
+
 
 keyFile = open('cran.qry.txt', 'r')
 key = keyFile.readlines()
