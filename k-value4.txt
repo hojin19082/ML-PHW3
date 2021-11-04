@@ -1,0 +1,2698 @@
+When k-value is: 4
+Query[1]
+              cosSim
+Document id         
+51           0.20762
+184          0.16888
+486          0.16829
+573          0.16171
+12           0.15354
+Precision:  0.1
+Recall:     0.41
+
+
+Query[2]
+              cosSim
+Document id         
+12           0.32609
+746          0.19933
+184          0.16263
+51           0.16209
+141          0.13065
+Precision:  0.08
+Recall:     0.36
+
+
+Query[3]
+              cosSim
+Document id         
+485          0.33605
+5            0.27790
+144          0.20456
+399          0.18164
+91           0.16593
+Precision:  0.14
+Recall:     0.78
+
+
+Query[4]
+              cosSim
+Document id         
+488          0.23140
+1275         0.22096
+166          0.21785
+1189         0.16745
+1061         0.16735
+Precision:  0.01
+Recall:     1.0
+
+
+Query[5]
+              cosSim
+Document id         
+103          0.16071
+1032         0.15310
+401          0.12076
+368          0.11173
+1379         0.11164
+Precision:  0.08
+Recall:     0.8
+
+
+Query[6]
+              cosSim
+Document id         
+491          0.23420
+257          0.11835
+802          0.08855
+345          0.08528
+798          0.08425
+Precision:  0.04
+Recall:     0.8
+
+
+Query[7]
+              cosSim
+Document id         
+492          0.75231
+973          0.29043
+434          0.28024
+57           0.22564
+56           0.20306
+Precision:  0.01
+Recall:     1.0
+
+
+Query[8]
+              cosSim
+Document id         
+492          0.24587
+1083         0.20420
+569          0.18835
+443          0.18496
+122          0.17486
+Precision:  0.02
+Recall:     0.83
+
+
+Query[9]
+              cosSim
+Document id         
+21           0.32376
+22           0.25533
+550          0.25250
+306          0.22572
+1215         0.19976
+Precision:  0.02
+Recall:     0.75
+
+
+Query[10]
+              cosSim
+Document id         
+302          0.23570
+524          0.21317
+493          0.21016
+1143         0.19703
+949          0.18627
+Precision:  0.06
+Recall:     0.56
+
+
+Query[11]
+              cosSim
+Document id         
+495          0.38194
+556          0.19692
+654          0.18151
+1327         0.15654
+738          0.15523
+Precision:  0.04
+Recall:     1.0
+
+
+Query[12]
+              cosSim
+Document id         
+941          0.24868
+650          0.24420
+624          0.22742
+1221         0.18278
+966          0.17940
+Precision:  0.03
+Recall:     0.83
+
+
+Query[13]
+              cosSim
+Document id         
+496          0.25897
+903          0.11850
+520          0.09545
+Precision:  0.33
+Recall:     0.2
+
+
+Query[14]
+              cosSim
+Document id         
+64           0.23232
+402          0.16166
+1303         0.15482
+132          0.13405
+65           0.13143
+Precision:  0.03
+Recall:     0.67
+
+
+Query[15]
+              cosSim
+Document id         
+462          0.17203
+463          0.06839
+1099         0.05986
+542          0.04392
+1340         0.04288
+Precision:  0.12
+Recall:     0.67
+
+
+Query[16]
+              cosSim
+Document id         
+498          0.24601
+106          0.22090
+1328         0.19549
+1255         0.15755
+494          0.14681
+Precision:  0.03
+Recall:     1.0
+
+
+Query[17]
+              cosSim
+Document id         
+106          0.31360
+1108         0.21779
+498          0.21533
+700          0.20943
+1281         0.20750
+Precision:  0.01
+Recall:     1.0
+
+
+Query[18]
+              cosSim
+Document id         
+197          0.25735
+492          0.25595
+248          0.23493
+498          0.22489
+56           0.18813
+Precision:  0.01
+Recall:     0.75
+
+
+Query[19]
+              cosSim
+Document id         
+706          0.12397
+82           0.10994
+303          0.10549
+1000         0.10319
+164          0.10130
+Precision:  0.01
+Recall:     0.2
+
+
+Query[20]
+              cosSim
+Document id         
+500          0.40297
+268          0.20376
+88           0.18060
+450          0.17439
+87           0.15632
+Precision:  0.02
+Recall:     0.9
+
+
+Query[21]
+              cosSim
+Document id         
+502          0.39464
+68           0.20537
+17           0.16724
+460          0.13974
+421          0.13793
+Precision:  0.02
+Recall:     0.4
+
+
+Query[22]
+              cosSim
+Document id         
+207          0.14943
+125          0.12960
+50           0.10471
+1298         0.10304
+413          0.09395
+Precision:  0.0
+Recall:     0.0
+
+
+Query[23]
+              cosSim
+Document id         
+892          0.16639
+1092         0.09643
+899          0.09511
+1259         0.07436
+14           0.07265
+Precision:  0.38
+Recall:     0.18
+
+
+Query[24]
+              cosSim
+Document id         
+756          0.21546
+46           0.17481
+12           0.11063
+833          0.09306
+883          0.09037
+Precision:  0.12
+Recall:     0.75
+
+
+Query[25]
+              cosSim
+Document id         
+277          0.22019
+214          0.21966
+215          0.20568
+772          0.15055
+213          0.14569
+Precision:  0.07
+Recall:     0.9
+
+
+Query[26]
+              cosSim
+Document id         
+382          0.36780
+307          0.32192
+145          0.29253
+4            0.26360
+568          0.24918
+Precision:  0.01
+Recall:     0.71
+
+
+Query[27]
+              cosSim
+Document id         
+1176         0.27758
+888          0.18584
+512          0.17181
+1178         0.16363
+1293         0.16191
+Precision:  0.04
+Recall:     1.0
+
+
+Query[28]
+              cosSim
+Document id         
+762          0.16098
+674          0.15829
+1051         0.14793
+920          0.14171
+752          0.13289
+Precision:  0.0
+Recall:     0.0
+
+
+Query[29]
+              cosSim
+Document id         
+465          0.41485
+612          0.33319
+250          0.32426
+900          0.30181
+420          0.28221
+Precision:  0.02
+Recall:     0.8
+
+
+Query[30]
+              cosSim
+Document id         
+633          0.19718
+513          0.13684
+683          0.13329
+680          0.12626
+420          0.12359
+Precision:  0.05
+Recall:     0.38
+
+
+Query[31]
+              cosSim
+Document id         
+751          0.34021
+1153         0.14873
+68           0.14664
+1209         0.13739
+918          0.12899
+Precision:  0.0
+Recall:     0.5
+
+
+Query[32]
+              cosSim
+Document id         
+752          0.38890
+250          0.18911
+242          0.15522
+147          0.14878
+287          0.14274
+Precision:  0.02
+Recall:     0.43
+
+
+Query[33]
+              cosSim
+Document id         
+516          0.56343
+431          0.29606
+252          0.27984
+672          0.27541
+141          0.27242
+Precision:  0.01
+Recall:     1.0
+
+
+Query[34]
+              cosSim
+Document id         
+1341         0.19746
+1062         0.14794
+516          0.13609
+1153         0.13249
+431          0.13169
+Precision:  0.05
+Recall:     1.0
+
+
+Query[35]
+              cosSim
+Document id         
+1314         0.16867
+1244         0.11356
+207          0.09126
+1327         0.08782
+296          0.08191
+Precision:  0.0
+Recall:     0.0
+
+
+Query[36]
+              cosSim
+Document id         
+168          0.16358
+319          0.15067
+518          0.13582
+123          0.12019
+975          0.11017
+Precision:  0.01
+Recall:     0.67
+
+
+Query[37]
+              cosSim
+Document id         
+186          0.16865
+1311         0.16817
+234          0.14853
+409          0.14549
+242          0.14447
+Precision:  0.04
+Recall:     0.6
+
+
+Query[38]
+              cosSim
+Document id         
+536          0.17525
+295          0.15629
+979          0.13091
+1391         0.11242
+294          0.11015
+Precision:  0.1
+Recall:     0.27
+
+
+Query[39]
+              cosSim
+Document id         
+37           0.15621
+1205         0.13799
+1257         0.13083
+9            0.12939
+272          0.11670
+Precision:  0.05
+Recall:     0.5
+
+
+Query[40]
+              cosSim
+Document id         
+536          0.18826
+186          0.12650
+976          0.11851
+1205         0.11356
+272          0.08862
+Precision:  0.31
+Recall:     0.31
+
+
+Query[41]
+              cosSim
+Document id         
+289          0.39978
+433          0.24182
+1152         0.23649
+229          0.18876
+126          0.18340
+Precision:  0.04
+Recall:     1.0
+
+
+Query[42]
+              cosSim
+Document id         
+521          0.38499
+526          0.31938
+440          0.29468
+503          0.27539
+496          0.21114
+Precision:  0.01
+Recall:     0.83
+
+
+Query[43]
+              cosSim
+Document id         
+469          0.19619
+467          0.16425
+194          0.15777
+503          0.15324
+496          0.14102
+Precision:  0.04
+Recall:     0.86
+
+
+Query[44]
+              cosSim
+Document id         
+1190         0.15153
+103          0.09595
+1199         0.09137
+367          0.08043
+1228         0.07196
+Precision:  0.0
+Recall:     0.0
+
+
+Query[45]
+              cosSim
+Document id         
+305          0.38566
+525          0.38156
+540          0.27953
+1395         0.22191
+84           0.21385
+Precision:  0.05
+Recall:     0.85
+
+
+Query[46]
+              cosSim
+Document id         
+305          0.28427
+525          0.28154
+84           0.21803
+353          0.21259
+1185         0.21207
+Precision:  0.04
+Recall:     0.94
+
+
+Query[47]
+              cosSim
+Document id         
+525          0.31724
+568          0.29077
+305          0.23366
+570          0.21994
+327          0.21907
+Precision:  0.09
+Recall:     0.87
+
+
+Query[48]
+              cosSim
+Document id         
+526          0.31154
+440          0.26099
+638          0.16128
+439          0.15034
+683          0.13785
+Precision:  0.11
+Recall:     0.58
+
+
+Query[49]
+              cosSim
+Document id         
+527          0.40919
+320          0.33851
+322          0.31824
+321          0.30749
+349          0.25696
+Precision:  0.0
+Recall:     1.0
+
+
+Query[50]
+              cosSim
+Document id         
+326          0.18866
+192          0.17065
+124          0.16782
+801          0.16582
+494          0.15867
+Precision:  0.02
+Recall:     1.0
+
+
+Query[51]
+              cosSim
+Document id         
+326          0.30541
+494          0.28193
+528          0.22270
+23           0.18376
+1213         0.17578
+Precision:  0.02
+Recall:     1.0
+
+
+Query[52]
+              cosSim
+Document id         
+326          0.24182
+550          0.23705
+21           0.20403
+306          0.17795
+22           0.17644
+Precision:  0.01
+Recall:     1.0
+
+
+Query[53]
+              cosSim
+Document id         
+208          0.36507
+437          0.24253
+298          0.23062
+1221         0.22802
+269          0.19851
+Precision:  0.03
+Recall:     0.91
+
+
+Query[54]
+              cosSim
+Document id         
+123          0.29825
+84           0.26064
+525          0.21568
+305          0.21164
+1307         0.20771
+Precision:  0.03
+Recall:     1.0
+
+
+Query[55]
+              cosSim
+Document id         
+251          0.23804
+376          0.22570
+460          0.19727
+1214         0.18625
+17           0.17559
+Precision:  0.02
+Recall:     1.0
+
+
+Query[56]
+              cosSim
+Document id         
+753          0.30531
+783          0.16047
+14           0.15893
+1339         0.15363
+441          0.14703
+Precision:  0.03
+Recall:     0.55
+
+
+Query[57]
+              cosSim
+Document id         
+753          0.16821
+1338         0.14883
+444          0.12700
+856          0.12381
+1339         0.12322
+Precision:  0.06
+Recall:     0.47
+
+
+Query[58]
+              cosSim
+Document id         
+754          0.26993
+269          0.25632
+963          0.24068
+120          0.23986
+788          0.20844
+Precision:  0.02
+Recall:     1.0
+
+
+Query[59]
+              cosSim
+Document id         
+382          0.23644
+1084         0.20216
+842          0.18843
+785          0.17121
+1055         0.16991
+Precision:  0.01
+Recall:     0.8
+
+
+Query[60]
+              cosSim
+Document id         
+527          0.48267
+320          0.40157
+322          0.37178
+321          0.36389
+107          0.26027
+Precision:  0.01
+Recall:     1.0
+
+
+Query[61]
+              cosSim
+Document id         
+564          0.27951
+539          0.25618
+566          0.25511
+333          0.23732
+1213         0.20769
+Precision:  0.03
+Recall:     0.83
+
+
+Query[62]
+              cosSim
+Document id         
+483          0.28573
+105          0.20179
+381          0.20010
+1383         0.19411
+785          0.19355
+Precision:  0.01
+Recall:     1.0
+
+
+Query[63]
+              cosSim
+Document id         
+1045         0.15543
+843          0.14147
+287          0.12606
+1135         0.11039
+629          0.10783
+Precision:  0.04
+Recall:     0.75
+
+
+Query[64]
+              cosSim
+Document id         
+390          0.23480
+52           0.19676
+719          0.17044
+391          0.15307
+627          0.14577
+Precision:  0.01
+Recall:     1.0
+
+
+Query[65]
+              cosSim
+Document id         
+3            0.56702
+388          0.38371
+4            0.33962
+393          0.33686
+664          0.31099
+Precision:  0.03
+Recall:     0.88
+
+
+Query[66]
+              cosSim
+Document id         
+128          0.33303
+305          0.20210
+191          0.20207
+664          0.19497
+1182         0.19451
+Precision:  0.01
+Recall:     1.0
+
+
+Query[67]
+              cosSim
+Document id         
+3            0.37998
+4            0.30907
+393          0.30812
+180          0.27134
+664          0.26518
+Precision:  0.03
+Recall:     0.93
+
+
+Query[68]
+              cosSim
+Document id         
+628          0.28296
+662          0.13581
+338          0.11935
+560          0.11591
+344          0.11482
+Precision:  0.05
+Recall:     0.5
+
+
+Query[69]
+              cosSim
+Document id         
+264          0.17942
+306          0.17175
+664          0.15937
+322          0.15219
+105          0.13787
+Precision:  0.02
+Recall:     1.0
+
+
+Query[70]
+              cosSim
+Document id         
+320          0.26177
+540          0.23494
+180          0.21031
+365          0.16137
+1054         0.15918
+Precision:  0.03
+Recall:     0.82
+
+
+Query[71]
+              cosSim
+Document id         
+540          0.20480
+305          0.19729
+525          0.17946
+63           0.17805
+26           0.16765
+Precision:  0.04
+Recall:     0.44
+
+
+Query[72]
+              cosSim
+Document id         
+1395         0.17961
+63           0.17768
+630          0.16025
+540          0.15481
+570          0.14343
+Precision:  0.02
+Recall:     0.67
+
+
+Query[73]
+              cosSim
+Document id         
+332          0.29584
+541          0.22777
+573          0.22428
+401          0.17998
+625          0.14900
+Precision:  0.05
+Recall:     0.81
+
+
+Query[74]
+              cosSim
+Document id         
+26           0.20479
+1295         0.18210
+68           0.17692
+625          0.17160
+1153         0.16398
+Precision:  0.02
+Recall:     1.0
+
+
+Query[75]
+              cosSim
+Document id         
+324          0.19163
+1395         0.15286
+630          0.14819
+323          0.14651
+55           0.14616
+Precision:  0.01
+Recall:     1.0
+
+
+Query[76]
+              cosSim
+Document id         
+630          0.24053
+666          0.22559
+565          0.17953
+389          0.17811
+1076         0.17128
+Precision:  0.01
+Recall:     0.75
+
+
+Query[77]
+              cosSim
+Document id         
+1395         0.32215
+329          0.28539
+630          0.27944
+1264         0.22570
+667          0.19494
+Precision:  0.01
+Recall:     1.0
+
+
+Query[78]
+              cosSim
+Document id         
+543          0.16664
+578          0.13547
+590          0.09850
+237          0.09769
+764          0.08337
+Precision:  0.18
+Recall:     0.5
+
+
+Query[79]
+              cosSim
+Document id         
+748          0.21316
+19           0.20672
+567          0.20168
+413          0.19014
+755          0.18010
+Precision:  0.01
+Recall:     0.83
+
+
+Query[80]
+              cosSim
+Document id         
+546          0.18609
+602          0.13474
+878          0.13442
+1335         0.11266
+251          0.09917
+Precision:  0.0
+Recall:     0.2
+
+
+Query[81]
+              cosSim
+Document id         
+203          0.28762
+631          0.20058
+652          0.19882
+672          0.17703
+714          0.15977
+Precision:  0.02
+Recall:     1.0
+
+
+Query[82]
+              cosSim
+Document id         
+678          0.26076
+676          0.21321
+1334         0.20216
+1339         0.19331
+247          0.17346
+Precision:  0.01
+Recall:     0.83
+
+
+Query[83]
+              cosSim
+Document id         
+1275         0.26154
+753          0.22274
+898          0.19952
+224          0.19138
+680          0.19133
+Precision:  0.03
+Recall:     0.8
+
+
+Query[84]
+              cosSim
+Document id         
+294          0.26658
+21           0.23286
+19           0.21527
+522          0.21428
+398          0.18378
+Precision:  0.02
+Recall:     0.92
+
+
+Query[85]
+              cosSim
+Document id         
+710          0.19872
+418          0.17683
+84           0.17558
+1155         0.17492
+315          0.16033
+Precision:  0.01
+Recall:     0.6
+
+
+Query[86]
+              cosSim
+Document id         
+755          0.48705
+594          0.37891
+431          0.24215
+790          0.20792
+188          0.20295
+Precision:  0.01
+Recall:     1.0
+
+
+Query[87]
+              cosSim
+Document id         
+1228         0.30453
+26           0.23627
+547          0.22761
+439          0.20530
+1267         0.18679
+Precision:  0.01
+Recall:     0.56
+
+
+Query[88]
+              cosSim
+Document id         
+548          0.30251
+613          0.29281
+615          0.28131
+617          0.27690
+622          0.25942
+Precision:  0.19
+Recall:     1.0
+
+
+Query[89]
+              cosSim
+Document id         
+632          0.22379
+1338         0.19703
+793          0.19695
+879          0.19614
+205          0.16549
+Precision:  0.03
+Recall:     1.0
+
+
+Query[90]
+              cosSim
+Document id         
+265          0.26532
+358          0.21862
+1187         0.18147
+655          0.17654
+293          0.16670
+Precision:  0.05
+Recall:     0.79
+
+
+Query[91]
+              cosSim
+Document id         
+252          0.14284
+316          0.13991
+924          0.11996
+431          0.11874
+672          0.11599
+Precision:  0.16
+Recall:     0.6
+
+
+Query[92]
+              cosSim
+Document id         
+807          0.22419
+758          0.21632
+806          0.21613
+809          0.21550
+810          0.20328
+Precision:  0.05
+Recall:     0.79
+
+
+Query[93]
+              cosSim
+Document id         
+635          0.57356
+68           0.18343
+1336         0.16636
+1241         0.16387
+1314         0.15857
+Precision:  0.0
+Recall:     0.5
+
+
+Query[94]
+              cosSim
+Document id         
+559          0.31535
+283          0.30146
+1393         0.29730
+1161         0.26048
+438          0.23609
+Precision:  0.06
+Recall:     1.0
+
+
+Query[95]
+              cosSim
+Document id         
+635          0.21963
+1002         0.18933
+553          0.18637
+662          0.18367
+1258         0.16777
+Precision:  0.03
+Recall:     1.0
+
+
+Query[96]
+              cosSim
+Document id         
+637          0.30622
+698          0.28700
+699          0.23915
+680          0.19276
+803          0.19100
+Precision:  0.05
+Recall:     0.86
+
+
+Query[97]
+              cosSim
+Document id         
+1331         0.23540
+187          0.12410
+783          0.11176
+1270         0.10150
+1289         0.10113
+Precision:  0.3
+Recall:     0.27
+
+
+Query[98]
+              cosSim
+Document id         
+638          0.29365
+673          0.22122
+1343         0.21308
+1163         0.14896
+1091         0.14281
+Precision:  0.01
+Recall:     0.5
+
+
+Query[99]
+              cosSim
+Document id         
+639          0.40318
+719          0.20352
+715          0.19322
+716          0.14328
+67           0.10170
+Precision:  0.08
+Recall:     0.8
+
+
+Query[100]
+              cosSim
+Document id         
+760          0.31350
+822          0.28369
+1122         0.27751
+897          0.25420
+1126         0.24733
+Precision:  0.08
+Recall:     0.9
+
+
+Query[101]
+              cosSim
+Document id         
+817          0.38826
+819          0.33454
+818          0.27096
+823          0.26996
+760          0.25323
+Precision:  0.02
+Recall:     1.0
+
+
+Query[102]
+              cosSim
+Document id         
+1339         0.10800
+729          0.10409
+1289         0.08643
+1290         0.08476
+132          0.07192
+Precision:  0.12
+Recall:     0.2
+
+
+Query[103]
+              cosSim
+Document id         
+761          0.33506
+1214         0.21970
+Precision:  0.5
+Recall:     0.33
+
+
+Query[104]
+              cosSim
+Document id         
+762          0.26320
+1177         0.20122
+462          0.18892
+644          0.17719
+29           0.15125
+Precision:  0.02
+Recall:     0.83
+
+
+Query[105]
+              cosSim
+Document id         
+764          0.37237
+848          0.28530
+847          0.13235
+846          0.12567
+953          0.09323
+Precision:  0.19
+Recall:     0.83
+
+
+Query[106]
+              cosSim
+Document id         
+847          0.15797
+764          0.12930
+42           0.09209
+739          0.09074
+552          0.09031
+Precision:  0.57
+Recall:     0.67
+
+
+Query[107]
+              cosSim
+Document id         
+640          0.24836
+883          0.19923
+725          0.19528
+909          0.19065
+12           0.13699
+Precision:  0.04
+Recall:     0.88
+
+
+Query[108]
+              cosSim
+Document id         
+75           0.28231
+724          0.24500
+884          0.19825
+720          0.16662
+726          0.16187
+Precision:  0.33
+Recall:     0.75
+
+
+Query[109]
+              cosSim
+Document id         
+391          0.18502
+5            0.18283
+859          0.17843
+627          0.15675
+51           0.15018
+Precision:  0.0
+Recall:     0.0
+
+
+Query[110]
+              cosSim
+Document id         
+862          0.23420
+15           0.17835
+1177         0.16295
+642          0.15990
+1069         0.14844
+Precision:  0.02
+Recall:     0.8
+
+
+Query[111]
+              cosSim
+Document id         
+894          0.25942
+1131         0.24445
+857          0.20414
+390          0.19169
+856          0.18580
+Precision:  0.06
+Recall:     0.75
+
+
+Query[112]
+              cosSim
+Document id         
+641          0.49174
+1045         0.30914
+730          0.30407
+735          0.27679
+840          0.24415
+Precision:  0.01
+Recall:     1.0
+
+
+Query[113]
+              cosSim
+Document id         
+748          0.19867
+1272         0.18199
+265          0.17630
+815          0.16898
+197          0.15896
+Precision:  0.01
+Recall:     0.6
+
+
+Query[114]
+              cosSim
+Document id         
+895          0.38031
+712          0.17581
+919          0.16884
+918          0.16036
+1266         0.15420
+Precision:  0.01
+Recall:     0.8
+
+
+Query[115]
+              cosSim
+Document id         
+184          0.17984
+746          0.17664
+540          0.14593
+486          0.12919
+12           0.12156
+Precision:  0.0
+Recall:     0.4
+
+
+Query[116]
+              cosSim
+Document id         
+1106         0.19541
+522          0.17204
+272          0.16272
+605          0.14549
+384          0.13257
+Precision:  0.02
+Recall:     0.33
+
+
+Query[117]
+              cosSim
+Document id         
+282          0.20634
+229          0.15577
+230          0.14756
+60           0.13889
+925          0.13697
+Precision:  0.02
+Recall:     0.67
+
+
+Query[118]
+              cosSim
+Document id         
+246          0.33234
+520          0.25815
+1062         0.21144
+803          0.20508
+923          0.20288
+Precision:  0.01
+Recall:     0.75
+
+
+Query[119]
+              cosSim
+Document id         
+926          0.23686
+897          0.19560
+1055         0.18007
+928          0.16806
+744          0.16386
+Precision:  0.01
+Recall:     1.0
+
+
+Query[120]
+              cosSim
+Document id         
+769          0.31416
+887          0.24564
+1146         0.20584
+1116         0.16291
+890          0.15722
+Precision:  0.06
+Recall:     1.0
+
+
+Query[121]
+              cosSim
+Document id         
+1146         0.24644
+887          0.22203
+769          0.18830
+888          0.16760
+925          0.14970
+Precision:  0.08
+Recall:     1.0
+
+
+Query[122]
+              cosSim
+Document id         
+898          0.34853
+1070         0.29289
+931          0.23053
+938          0.22635
+935          0.21518
+Precision:  0.03
+Recall:     0.9
+
+
+Query[123]
+              cosSim
+Document id         
+941          0.25955
+1221         0.18465
+227          0.13407
+1360         0.13374
+112          0.12444
+Precision:  0.03
+Recall:     1.0
+
+
+Query[124]
+              cosSim
+Document id         
+941          0.38752
+898          0.24991
+1070         0.21372
+516          0.20017
+938          0.19401
+Precision:  0.0
+Recall:     0.8
+
+
+Query[125]
+              cosSim
+Document id         
+1083         0.19919
+176          0.18092
+997          0.16176
+610          0.15851
+1074         0.14305
+Precision:  0.08
+Recall:     0.61
+
+
+Query[126]
+              cosSim
+Document id         
+1326         0.20714
+1288         0.19117
+1083         0.18694
+974          0.14982
+773          0.10442
+Precision:  0.29
+Recall:     0.22
+
+
+Query[127]
+              cosSim
+Document id         
+5            0.25925
+6            0.24793
+981          0.18869
+869          0.17728
+582          0.15767
+Precision:  0.01
+Recall:     0.83
+
+
+Query[128]
+              cosSim
+Document id         
+945          0.41052
+745          0.16725
+1063         0.15437
+1219         0.13531
+92           0.12025
+Precision:  0.02
+Recall:     0.67
+
+
+Query[129]
+              cosSim
+Document id         
+945          0.37777
+988          0.31360
+989          0.19907
+987          0.16504
+985          0.14816
+Precision:  0.02
+Recall:     1.0
+
+
+Query[130]
+              cosSim
+Document id         
+948          0.28076
+859          0.24792
+391          0.21142
+766          0.20502
+5            0.19302
+Precision:  0.05
+Recall:     0.67
+
+
+Query[131]
+              cosSim
+Document id         
+950          0.40819
+1012         0.32490
+952          0.31903
+1017         0.29467
+951          0.26020
+Precision:  0.01
+Recall:     0.33
+
+
+Query[132]
+              cosSim
+Document id         
+1017         0.23599
+950          0.18758
+952          0.18226
+1052         0.15350
+761          0.12589
+Precision:  0.3
+Recall:     0.19
+
+
+Query[133]
+              cosSim
+Document id         
+951          0.25842
+950          0.21828
+1214         0.13616
+856          0.10815
+760          0.10416
+Precision:  0.09
+Recall:     0.12
+
+
+Query[134]
+              cosSim
+Document id         
+951          0.28719
+1012         0.22536
+866          0.19673
+1017         0.18216
+950          0.14250
+Precision:  0.0
+Recall:     0.33
+
+
+Query[135]
+              cosSim
+Document id         
+1017         0.32742
+951          0.30616
+1012         0.29547
+950          0.25766
+866          0.14174
+Precision:  0.09
+Recall:     0.33
+
+
+Query[136]
+              cosSim
+Document id         
+951          0.26739
+1017         0.19077
+952          0.16907
+239          0.13632
+140          0.13579
+Precision:  0.01
+Recall:     0.25
+
+
+Query[137]
+              cosSim
+Document id         
+952          0.47998
+1017         0.19050
+955          0.18258
+837          0.17916
+862          0.17168
+Precision:  0.01
+Recall:     0.4
+
+
+Query[138]
+              cosSim
+Document id         
+953          0.33490
+847          0.31235
+846          0.25275
+897          0.24484
+848          0.23398
+Precision:  0.03
+Recall:     1.0
+
+
+Query[139]
+              cosSim
+Document id         
+847          0.33375
+897          0.31315
+953          0.28308
+848          0.26650
+846          0.26079
+Precision:  0.0
+Recall:     0.2
+
+
+Query[140]
+              cosSim
+Document id         
+954          0.32865
+890          0.14374
+1202         0.10294
+720          0.08773
+729          0.07885
+Precision:  0.07
+Recall:     0.14
+
+
+Query[141]
+              cosSim
+Document id         
+498          0.16805
+843          0.15519
+1135         0.15399
+930          0.15119
+421          0.14356
+Precision:  0.02
+Recall:     0.29
+
+
+Query[142]
+              cosSim
+Document id         
+954          0.26701
+887          0.12878
+1136         0.11343
+1134         0.10678
+1135         0.10098
+Precision:  0.02
+Recall:     0.5
+
+
+Query[143]
+              cosSim
+Document id         
+930          0.20739
+1171         0.17727
+953          0.16848
+498          0.15675
+1135         0.14754
+Precision:  0.01
+Recall:     0.67
+
+
+Query[144]
+              cosSim
+Document id         
+1045         0.30513
+955          0.24914
+1363         0.21061
+840          0.20994
+1340         0.19369
+Precision:  0.01
+Recall:     0.71
+
+
+Query[145]
+              cosSim
+Document id         
+1045         0.28414
+1051         0.23975
+838          0.22609
+839          0.21971
+1126         0.18954
+Precision:  0.02
+Recall:     0.75
+
+
+Query[146]
+              cosSim
+Document id         
+1045         0.45915
+955          0.35034
+840          0.27200
+641          0.20967
+854          0.20914
+Precision:  0.02
+Recall:     1.0
+
+
+Query[147]
+              cosSim
+Document id         
+956          0.40044
+1050         0.38674
+1049         0.27923
+1171         0.20357
+1069         0.18100
+Precision:  0.16
+Recall:     0.55
+
+
+Query[148]
+              cosSim
+Document id         
+1048         0.40667
+1050         0.29599
+956          0.29145
+1126         0.24784
+761          0.22387
+Precision:  0.05
+Recall:     0.57
+
+
+Query[149]
+              cosSim
+Document id         
+930          0.23563
+1070         0.19764
+1058         0.17612
+926          0.15607
+1068         0.14448
+Precision:  0.1
+Recall:     0.67
+
+
+Query[150]
+              cosSim
+Document id         
+1062         0.46834
+1074         0.42143
+1075         0.34038
+1243         0.23186
+923          0.21449
+Precision:  0.01
+Recall:     1.0
+
+
+Query[151]
+              cosSim
+Document id         
+251          0.16145
+433          0.15022
+1062         0.14298
+101          0.13069
+678          0.11877
+Precision:  0.01
+Recall:     0.67
+
+
+Query[152]
+              cosSim
+Document id         
+671          0.25568
+1062         0.20144
+250          0.19629
+678          0.18915
+336          0.17661
+Precision:  0.01
+Recall:     0.71
+
+
+Query[153]
+              cosSim
+Document id         
+1063         0.27535
+1085         0.14175
+1088         0.13567
+1082         0.13120
+1081         0.12256
+Precision:  0.18
+Recall:     0.62
+
+
+Query[154]
+              cosSim
+Document id         
+832          0.35900
+1088         0.31779
+1054         0.21549
+1087         0.21001
+1086         0.17848
+Precision:  0.02
+Recall:     1.0
+
+
+Query[155]
+              cosSim
+Document id         
+1101         0.19483
+1065         0.18395
+806          0.11702
+805          0.11502
+804          0.09189
+Precision:  0.29
+Recall:     0.29
+
+
+Query[156]
+              cosSim
+Document id         
+1096         0.13161
+1065         0.13113
+1302         0.11007
+1099         0.08818
+818          0.07212
+Precision:  0.53
+Recall:     0.6
+
+
+Query[157]
+              cosSim
+Document id         
+25           0.23452
+160          0.23009
+421          0.22221
+318          0.21917
+1393         0.21295
+Precision:  0.05
+Recall:     0.85
+
+
+Query[158]
+              cosSim
+Document id         
+302          0.17152
+949          0.13606
+552          0.11571
+1269         0.10944
+378          0.10703
+Precision:  0.04
+Recall:     0.22
+
+
+Query[159]
+              cosSim
+Document id         
+1066         0.30657
+1197         0.16485
+1339         0.14382
+1115         0.13685
+42           0.13031
+Precision:  0.06
+Recall:     0.78
+
+
+Query[160]
+              cosSim
+Document id         
+1071         0.43652
+1134         0.26092
+885          0.25665
+887          0.25041
+741          0.24803
+Precision:  0.01
+Recall:     1.0
+
+
+Query[161]
+              cosSim
+Document id         
+1386         0.34125
+55           0.29283
+460          0.27551
+54           0.25164
+366          0.23614
+Precision:  0.01
+Recall:     1.0
+
+
+Query[162]
+              cosSim
+Document id         
+55           0.29655
+460          0.29367
+559          0.24925
+366          0.24727
+1386         0.24210
+Precision:  0.02
+Recall:     1.0
+
+
+Query[163]
+              cosSim
+Document id         
+492          0.65620
+973          0.25310
+434          0.25299
+232          0.24596
+56           0.24391
+Precision:  0.01
+Recall:     1.0
+
+
+Query[164]
+              cosSim
+Document id         
+503          0.27957
+311          0.20377
+415          0.19680
+358          0.18758
+316          0.18744
+Precision:  0.04
+Recall:     0.89
+
+
+Query[165]
+              cosSim
+Document id         
+504          0.24547
+71           0.15834
+1276         0.14881
+417          0.14566
+72           0.13779
+Precision:  0.01
+Recall:     1.0
+
+
+Query[166]
+              cosSim
+Document id         
+504          0.31478
+1276         0.20663
+663          0.19043
+55           0.18028
+71           0.17941
+Precision:  0.02
+Recall:     0.89
+
+
+Query[167]
+              cosSim
+Document id         
+553          0.25176
+1279         0.24074
+274          0.19263
+1100         0.19081
+1065         0.17290
+Precision:  0.01
+Recall:     1.0
+
+
+Query[168]
+              cosSim
+Document id         
+750          0.42811
+965          0.30975
+118          0.26969
+341          0.25566
+217          0.23272
+Precision:  0.0
+Recall:     1.0
+
+
+Query[169]
+              cosSim
+Document id         
+750          0.40621
+965          0.25950
+118          0.25804
+341          0.23037
+217          0.22165
+Precision:  0.01
+Recall:     0.8
+
+
+Query[170]
+              cosSim
+Document id         
+238          0.28541
+893          0.24205
+239          0.21913
+904          0.20821
+139          0.18111
+Precision:  0.04
+Recall:     0.86
+
+
+Query[171]
+              cosSim
+Document id         
+516          0.46081
+431          0.35802
+672          0.28891
+252          0.28327
+714          0.27840
+Precision:  0.01
+Recall:     1.0
+
+
+Query[172]
+              cosSim
+Document id         
+527          0.49963
+320          0.48336
+322          0.37255
+321          0.31330
+478          0.25366
+Precision:  0.02
+Recall:     1.0
+
+
+Query[173]
+              cosSim
+Document id         
+532          0.36534
+367          0.25588
+451          0.21907
+251          0.12754
+917          0.11955
+Precision:  0.02
+Recall:     1.0
+
+
+Query[174]
+              cosSim
+Document id         
+483          0.28955
+411          0.21508
+501          0.17928
+1157         0.16768
+523          0.16685
+Precision:  0.02
+Recall:     0.33
+
+
+Query[175]
+              cosSim
+Document id         
+941          0.35410
+1221         0.25293
+491          0.19099
+34           0.18287
+1222         0.17214
+Precision:  0.02
+Recall:     0.67
+
+
+Query[176]
+              cosSim
+Document id         
+963          0.38778
+542          0.31515
+5            0.16400
+1073         0.15963
+1221         0.15044
+Precision:  0.02
+Recall:     0.88
+
+
+Query[177]
+              cosSim
+Document id         
+578          0.15011
+214          0.11270
+576          0.10830
+590          0.10358
+138          0.10218
+Precision:  0.33
+Recall:     0.67
+
+
+Query[178]
+              cosSim
+Document id         
+591          0.36323
+772          0.12230
+387          0.09132
+511          0.08814
+984          0.08242
+Precision:  0.09
+Recall:     0.2
+
+
+Query[179]
+              cosSim
+Document id         
+633          0.28946
+224          0.21606
+680          0.20892
+682          0.17766
+428          0.17500
+Precision:  0.01
+Recall:     1.0
+
+
+Query[180]
+              cosSim
+Document id         
+548          0.24333
+622          0.21715
+616          0.21662
+617          0.18868
+1324         0.09877
+Precision:  0.44
+Recall:     0.5
+
+
+Query[181]
+              cosSim
+Document id         
+610          0.22167
+997          0.21321
+176          0.20980
+1074         0.19392
+1075         0.16983
+Precision:  0.03
+Recall:     0.5
+
+
+Query[182]
+              cosSim
+Document id         
+634          0.58947
+685          0.45940
+686          0.30282
+593          0.23844
+597          0.20306
+Precision:  0.01
+Recall:     1.0
+
+
+Query[183]
+              cosSim
+Document id         
+809          0.16000
+806          0.12850
+1226         0.12528
+39           0.11324
+811          0.10738
+Precision:  0.31
+Recall:     0.29
+
+
+Query[184]
+              cosSim
+Document id         
+207          0.14279
+515          0.14041
+715          0.12323
+164          0.09459
+917          0.09297
+Precision:  0.13
+Recall:     0.25
+
+
+Query[185]
+              cosSim
+Document id         
+856          0.27055
+857          0.24233
+858          0.19614
+766          0.19555
+390          0.17738
+Precision:  0.29
+Recall:     0.4
+
+
+Query[186]
+              cosSim
+Document id         
+1062         0.25596
+1074         0.22496
+1243         0.21806
+1075         0.19849
+803          0.19429
+Precision:  0.03
+Recall:     0.65
+
+
+Query[187]
+              cosSim
+Document id         
+841          0.32780
+838          0.32168
+839          0.30191
+1126         0.28677
+1068         0.26177
+Precision:  0.01
+Recall:     0.57
+
+
+Query[188]
+              cosSim
+Document id         
+725          0.26667
+909          0.17661
+722          0.16284
+640          0.15440
+720          0.15356
+Precision:  0.15
+Recall:     0.58
+
+
+Query[189]
+              cosSim
+Document id         
+883          0.15394
+640          0.12976
+881          0.12066
+870          0.10055
+727          0.10039
+Precision:  0.04
+Recall:     0.5
+
+
+Query[190]
+              cosSim
+Document id         
+390          0.21841
+391          0.16240
+627          0.16189
+856          0.15558
+948          0.14332
+Precision:  0.02
+Recall:     0.83
+
+
+Query[191]
+              cosSim
+Document id         
+827          0.12194
+766          0.12041
+627          0.10945
+15           0.09719
+541          0.09676
+Precision:  0.24
+Recall:     0.29
+
+
+Query[192]
+              cosSim
+Document id         
+925          0.23334
+735          0.20695
+641          0.14527
+733          0.12848
+734          0.12343
+Precision:  0.67
+Recall:     0.8
+
+
+Query[193]
+              cosSim
+Document id         
+735          0.29474
+733          0.23815
+730          0.23728
+641          0.23047
+736          0.21775
+Precision:  0.08
+Recall:     0.9
+
+
+Query[194]
+              cosSim
+Document id         
+642          0.34969
+932          0.27906
+888          0.22090
+1126         0.20118
+957          0.19982
+Precision:  0.03
+Recall:     1.0
+
+
+Query[195]
+              cosSim
+Document id         
+642          0.40259
+932          0.27517
+1055         0.22775
+744          0.21360
+888          0.20821
+Precision:  0.01
+Recall:     1.0
+
+
+Query[196]
+              cosSim
+Document id         
+746          0.20030
+184          0.19977
+1237         0.17502
+486          0.14646
+12           0.13592
+Precision:  0.01
+Recall:     0.54
+
+
+Query[197]
+              cosSim
+Document id         
+884          0.31956
+881          0.20734
+768          0.17060
+726          0.16479
+723          0.16346
+Precision:  0.04
+Recall:     0.75
+
+
+Query[198]
+              cosSim
+Document id         
+887          0.21743
+886          0.20089
+889          0.20003
+897          0.19505
+1126         0.18648
+Precision:  0.02
+Recall:     0.8
+
+
+Query[199]
+              cosSim
+Document id         
+1070         0.20984
+930          0.20269
+931          0.15996
+1058         0.15524
+739          0.13564
+Precision:  0.05
+Recall:     0.33
+
+
+Query[200]
+              cosSim
+Document id         
+1071         0.29337
+1134         0.17276
+885          0.15642
+1053         0.14485
+887          0.14226
+Precision:  0.01
+Recall:     1.0
+
+
+Query[201]
+              cosSim
+Document id         
+625          0.20675
+401          0.11299
+69           0.10616
+24           0.10449
+944          0.10260
+Precision:  0.09
+Recall:     0.47
+
+
+Query[202]
+              cosSim
+Document id         
+1285         0.35715
+1310         0.19175
+232          0.18650
+186          0.18366
+605          0.17826
+Precision:  0.02
+Recall:     0.47
+
+
+Query[203]
+              cosSim
+Document id         
+38           0.25759
+1285         0.25642
+58           0.18710
+1308         0.18379
+211          0.14807
+Precision:  0.03
+Recall:     0.73
+
+
+Query[204]
+              cosSim
+Document id         
+147          0.18278
+1311         0.10038
+443          0.09239
+1080         0.08687
+573          0.07720
+Precision:  0.04
+Recall:     0.4
+
+
+Query[205]
+              cosSim
+Document id         
+1287         0.29192
+1321         0.25669
+78           0.19105
+55           0.15870
+1322         0.14206
+Precision:  0.01
+Recall:     1.0
+
+
+Query[206]
+              cosSim
+Document id         
+1290         0.40149
+879          0.32825
+516          0.21370
+1338         0.19169
+1341         0.18288
+Precision:  0.01
+Recall:     0.75
+
+
+Query[207]
+              cosSim
+Document id         
+1290         0.14784
+365          0.14521
+1338         0.14447
+189          0.13405
+1341         0.13305
+Precision:  0.03
+Recall:     0.67
+
+
+Query[208]
+              cosSim
+Document id         
+1291         0.49771
+1344         0.32548
+163          0.19642
+1345         0.17710
+566          0.15335
+Precision:  0.02
+Recall:     1.0
+
+
+Query[209]
+              cosSim
+Document id         
+959          0.21385
+358          0.20828
+38           0.18284
+23           0.17720
+339          0.17694
+Precision:  0.02
+Recall:     0.77
+
+
+Query[210]
+              cosSim
+Document id         
+1172         0.43805
+1171         0.40132
+1145         0.38810
+938          0.22656
+1126         0.22477
+Precision:  0.02
+Recall:     0.71
+
+
+Query[211]
+              cosSim
+Document id         
+1171         0.19258
+739          0.18803
+1145         0.18374
+1117         0.17614
+897          0.17359
+Precision:  0.07
+Recall:     0.67
+
+
+Query[212]
+              cosSim
+Document id         
+1178         0.40259
+888          0.39985
+1176         0.37146
+1177         0.36971
+838          0.31668
+Precision:  0.13
+Recall:     0.87
+
+
+Query[213]
+              cosSim
+Document id         
+885          0.31523
+769          0.27873
+1173         0.23935
+1146         0.23819
+888          0.22706
+Precision:  0.09
+Recall:     0.92
+
+
+Query[214]
+              cosSim
+Document id         
+1294         0.32008
+1362         0.20242
+828          0.19555
+831          0.19239
+1126         0.14983
+Precision:  0.03
+Recall:     0.6
+
+
+Query[215]
+              cosSim
+Document id         
+535          0.36242
+1253         0.22807
+1234         0.19911
+68           0.18413
+1205         0.18365
+Precision:  0.01
+Recall:     1.0
+
+
+Query[216]
+              cosSim
+Document id         
+958          0.19155
+1225         0.17331
+407          0.16892
+974          0.16478
+175          0.15636
+Precision:  0.0
+Recall:     0.5
+
+
+Query[217]
+              cosSim
+Document id         
+1395         0.27829
+323          0.25897
+324          0.25755
+629          0.21074
+655          0.20979
+Precision:  0.04
+Recall:     0.88
+
+
+Query[218]
+              cosSim
+Document id         
+323          0.22090
+1395         0.19351
+154          0.12405
+1281         0.11455
+35           0.10408
+Precision:  0.16
+Recall:     0.75
+
+
+Query[219]
+              cosSim
+Document id         
+1222         0.21743
+1221         0.21327
+208          0.18538
+992          0.16418
+530          0.16122
+Precision:  0.03
+Recall:     0.79
+
+
+Query[220]
+              cosSim
+Document id         
+4            0.19375
+382          0.18742
+242          0.18580
+738          0.18570
+527          0.17720
+Precision:  0.03
+Recall:     1.0
+
+
+Query[221]
+              cosSim
+Document id         
+3            0.24162
+1366         0.21894
+1225         0.17750
+435          0.17677
+1386         0.17420
+Precision:  0.03
+Recall:     0.79
+
+
+Query[222]
+              cosSim
+Document id         
+1400         0.31923
+1399         0.26380
+1130         0.24735
+1358         0.24370
+419          0.22883
+Precision:  0.24
+Recall:     0.9
+
+
+Query[223]
+              cosSim
+Document id         
+400          0.22119
+1399         0.21403
+839          0.15651
+1358         0.15179
+863          0.14617
+Precision:  0.07
+Recall:     1.0
+
+
+Query[224]
+              cosSim
+Document id         
+1312         0.35844
+1286         0.23790
+317          0.22187
+259          0.21719
+236          0.18654
+Precision:  0.03
+Recall:     0.89
+
+
+Query[225]
+              cosSim
+Document id         
+1124         0.27001
+1380         0.25724
+1188         0.23614
+638          0.20209
+674          0.19177
+Precision:  0.03
+Recall:     0.48
+
+
+Mean precision:  0.0640
+Mean recall:       0.7107
